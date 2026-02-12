@@ -25,5 +25,5 @@ VALUES ("Cliente"),
 ("Empresa"),
 ("Administrador");
 
-INSERT INTO usuarios (IDUsuario, IDRol, Mail, Contrasena, PassChange, Activo) VALUES
-(1, 3, 'adm123@gmail.com', '123', 1, 1)
+INSERT INTO Usuarios (IDUsuario, IDRol, Mail, Contrasena, PassChange, Activo) VALUES
+(1, 3, 'adm123@gmail.com', '123', 1, 1);
